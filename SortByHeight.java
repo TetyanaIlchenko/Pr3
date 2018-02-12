@@ -8,19 +8,14 @@ public class SortByHeight {
 		String[] numbers = null;
 		String[] minAndMax = null;
 		String line = "";
-<<<<<<< HEAD
+
 		int n = 6;
 		int max = 12;
 		int min = 6;
 		int counter = 3;
 		int number = 2;
-=======
-		int n = 5;
-		int max = 10;
-		int min = 2;
-		int counter = 4;
-		int number = 1;
->>>>>>> a1db1e7f0c965f3e997cdc4c9db8acb4d86e8310
+
+		
 		
 		while(true) {
 			line = read.readLine();
